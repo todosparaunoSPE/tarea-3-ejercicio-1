@@ -86,3 +86,6 @@ if abs(t_statistic) > t_critical:
     st.write("**Conclusión:** Rechazamos la hipótesis nula. Existe evidencia suficiente para afirmar que hay una diferencia significativa en la producción entre los turnos matutino y vespertino.")
 else:
     st.write("**Conclusión:** No se rechaza la hipótesis nula. No existe evidencia suficiente para afirmar que hay una diferencia significativa en la producción entre los turnos matutino y vespertino.")
+
+
+st.sidebar.write("© 2024 Creado por: Javier Horacio Pérez Ricárdez")
